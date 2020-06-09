@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1492870789 source:f:\cse project\cal and clock\imain.cpp
+	"iGraphics.h"
+	<time.h>
+
+1462108168 f:\cse project\cal and clock\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
